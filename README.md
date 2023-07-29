@@ -1,5 +1,5 @@
 # BYTE SAVER
-# About
+## About
 Welcome to our compression website, where you can compress your files without losing any data. We specialize in lossless compression, ensuring that your files are compressed while retaining their original format and content.
 
 ## How does it work
